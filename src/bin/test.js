@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log("Welcome!");
+import greeting from '..';
+
+greeting();
